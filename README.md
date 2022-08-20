@@ -1,4 +1,6 @@
-### Ola Um Pouco do que Venho Fazendo...👋
+### Um Pouco do que Venho Fazendo...👋
+
+##
 
 - 🔭 Atualmente Trabalho na Área de Suporte e Manutenção de Computadores.
 - 🌱 Estudante de Ánalise de Desenvolvimento de Sistema.
