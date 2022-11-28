@@ -11,6 +11,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PDEYVID&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PDEYVID&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
+  
+  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=paulodeyvid&cover_image=true&theme=default&show_offline=false&background_color=121212)](https://github.com/kittinan/spotify-github-profile)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
