@@ -1,29 +1,23 @@
+
+
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=PDEYVID&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300">
+
 ### Um Pouco do que Venho Fazendo...👋
-##
-
-
 - 🔭 Atualmente Trabalho na Área de Suporte e Manutenção de Computadores.
-- 🌱 Estudante de Ánalise de Desenvolvimento de Sistema.
-- 🏫 Formado em Técnico em informática com ênfase em programação.
 
-<picture>
-<source 
-  srcset="https://github-readme-stats.vercel.app/api?username=PDEYVID&show_icons=true&theme=dark"
-  media="(prefers-color-scheme: dark)"
-/>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=PDEYVID&show_icons=true"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-<img src="https://github-readme-stats.vercel.app/api?username=PDEYVID&show_icons=true" />
-</picture>
+<img src="https://img.shields.io/static/v1?label=Overview&message=PDEYVID&color=f8efd4&style=for-the-badge&logo=GitHub">
+
+
+<p>
+
+Estudando **Estudante de Ánalise de Desenvolvimento de Sistema**<br/>
+Formado **Técnico em informática com ênfase em programação**<br/>
+
+Eu sou desenvolvedor **FRONT-END**.
+
+</p>
+<hr>
   
- <div align="center">
-  <a href="https://github.com/PDEYVID">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=PDEYVID&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PDEYVID)](https://github.com/PDEYVID/github-readme-stats"/>
-</div>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
