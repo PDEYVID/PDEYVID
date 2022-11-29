@@ -62,7 +62,7 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="http://fucapi.edu.br/wp-content/uploads/2020/12/Logo_P.png"/>](https://fucapi.edu.br/)
 
 **Estagiário de TI** \
-[**FUCAPI**](https://fucapi.edu.br/) • Full-time \
+[**FUCAPI**](https://fucapi.edu.br/)\
 Atividades Desenvolvidaas: `Suporte em Informática`, `Sistemas Operacionais`, `Manutenção em Desktop e Notebook`,\
 Projetos em destaque: [Aplicativo lab](https://github.com/PDEYVID/ProjetoFucapi), [aplicativo veterinaria](https://github.com/PDEYVID/ProjetoClinica-VeterinariaApp)
 <br/>
@@ -71,7 +71,7 @@ Projetos em destaque: [Aplicativo lab](https://github.com/PDEYVID/ProjetoFucapi)
 [<img align="left" height="94px" width="94px" alt="FUCAPI" src="https://atos.net/wp-content/themes/atos/images/atos-logo-white-2021.svg"/>](https://atos.net/pt-br/brasil-atos)
 
 **Técnico de Suporte ao Usuário 2N I** \
-[**ATOS Brasil**](https://atos.net/pt-br/brasil-atos) • Contract \
+[**ATOS Brasil**](https://atos.net/pt-br/brasil-atos) \
 Atividades Desenvolvidaas: `Suporte em Informática`, `Sistemas Operacionais`, `Manutenção em Desktop e Notebook`,\
 <br/>
 
