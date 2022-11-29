@@ -6,10 +6,23 @@
 - 🌱 Estudante de Ánalise de Desenvolvimento de Sistema.
 - 🏫 Formado em Técnico em informática com ênfase em programação.
 
-<div align="center">
+<picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api?username=PDEYVID&show_icons=true&theme=dark"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=PDEYVID&show_icons=true"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=PDEYVID&show_icons=true" />
+</picture>
+  
+ <div align="center">
   <a href="https://github.com/PDEYVID">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PDEYVID&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PDEYVID&layout=compact&langs_count=7&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=PDEYVID&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PDEYVID)](https://github.com/PDEYVID/github-readme-stats"/>
 </div>
 
 <div style="display: inline_block"><br>
