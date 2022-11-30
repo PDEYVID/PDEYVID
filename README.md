@@ -64,6 +64,7 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
 **Estagiário de TI** \
 [**FUCAPI**](https://fucapi.edu.br/)\
 Atividades Desenvolvidaas: `Suporte em Informática`, `Sistemas Operacionais`, `Manutenção em Desktop e Notebook`,\
+Tempo: `fev de 2022 - set de 2022 · 8 meses`
 Projetos em destaque: [Aplicativo lab](https://github.com/PDEYVID/ProjetoFucapi), [aplicativo veterinaria](https://github.com/PDEYVID/ProjetoClinica-VeterinariaApp)
 <br/>
 
@@ -73,6 +74,7 @@ Projetos em destaque: [Aplicativo lab](https://github.com/PDEYVID/ProjetoFucapi)
 **Técnico de Suporte ao Usuário 2N I** \
 [**ATOS Brasil**](https://atos.net/pt-br/brasil-atos) \
 Atividades Desenvolvidaas: `Suporte em Informática`, `Sistemas Operacionais`, `Manutenção em Desktop e Notebook`,\
+Tempo: `set de 2022 - o momento · 3 meses`,\
 <br/>
 
 
