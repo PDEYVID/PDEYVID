@@ -9,16 +9,19 @@
 <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
 ```kotlin
-object **PAULO DEYVID** {
- val name = "PAULO DEYVID BARROS DO NASCIMENTO"
- val acknowledgements = "Análise e Desenvolvimento de Sistemas"
- 
- val primarySkillset = "ALGUMAS HABILIDADES"
- val languages = listOf("Java", "Python", "JavaScript", "Kotlin", "React",
- "Java", "C", "C#") 
+
+fun main( **PAULO DEYVID**) {
+    val Estudando = "Análise e Desenvolvimento de Sistemas"
+    val primarySkillset = "ALGUMAS HABILIDADES"
+    val languages = listOf("Java", "Python", "JavaScript", "Kotlin", "React",
+    "Java", "C", "C#") 
+    println("!")        
+    print("Current count:")
+    for (i in 0..10) {           
+        print(" $i")
+    }
 }
 ```
-
 ## **Linguagens e Ferramentas:**  
 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
@@ -44,7 +47,6 @@ object **PAULO DEYVID** {
 <a href="https://github.com/Gurupreet">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=PDEYVID&show_icons=true&theme=dracula&line_height=27" alt="**PAULO DEYVID** github stats"/>
 </a>
-
 
 #### Rede Sociais!
 
