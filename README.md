@@ -76,7 +76,7 @@ Projetos em destaque: [Aplicativo lab](https://github.com/PDEYVID/ProjetoFucapi)
 **Técnico de Suporte ao Usuário 2N I** \
 [**ATOS Brasil**](https://atos.net/pt-br/brasil-atos) \
 Atividades Desenvolvidaas: `Suporte em Informática`, `Sistemas Operacionais`, `Manutenção em Desktop e Notebook`,\
-Tempo: `set de 2022 - o momento · 3 meses`,\
+Tempo: `set de 2022 - o momento · 5 meses`,\
 <br/>
 
 
