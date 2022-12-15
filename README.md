@@ -4,7 +4,7 @@
 #### Tudo o que temos de decidir é o que fazer com o tempo que nos é dado.
 🧙 Gandalf
 
-## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
+## Mais sobre mim
 
 <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
