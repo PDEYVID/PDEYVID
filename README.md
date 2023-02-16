@@ -9,16 +9,15 @@
 <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
 ```kotlin
+public class PauloDeyvid {
 
-fun main( **PAULO DEYVID**) {
-    val Estudando = "Análise e Desenvolvimento de Sistemas"
-    val primarySkillset = "ALGUMAS HABILIDADES"
-    val languages = listOf("Java", "Python", "JavaScript", "Kotlin", "React",
-    "Java", "C", "C#") 
-    println("!")        
-    print("Current count:")
-    for (i in 0..10) {           
-        print(" $i")
+    public static void main(String[] args) {
+
+        System.out.println("Graduated = Tecnico em informática (com Ênfase em Programação)");
+        System.out.println("Studying = Análise e Desenvolvimento de Sistemas");
+        System.out.println("Some Skill");
+        System.out.println("languages = "Java", "Python", "JavaScript", "Kotlin", "React",
+    "Java", "C", "C#);
     }
 }
 ```
