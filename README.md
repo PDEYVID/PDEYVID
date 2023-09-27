@@ -24,16 +24,6 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=PDEYVID&show_icons=true&theme=dracula&line_height=27" alt="**PAULO DEYVID** github stats"/>
 </a>
 
-#### Rede Sociais!
-
-<div>
-<a href="https://www.linkedin.com/in/paulo-deyvid/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://www.twitch.tv/paulo_deyvid26/about"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"></a>
-<a href="https://discord.com/channels/@me"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
-</div>
-
-![snake gif](https://github.com/PDEYVID/PDEYVID/blob/output/github-contribution-grid-snake.svg)
-<br/>
 
 
 
