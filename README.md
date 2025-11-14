@@ -21,7 +21,6 @@
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" alt="git" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" alt="html" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" alt="css" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 </p>
 
 ---
