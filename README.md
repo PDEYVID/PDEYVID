@@ -1,54 +1,119 @@
-## 👋 Oie Devs!
+<!-- Banner: coloque o arquivo `banner.gif` em /assets/banner.gif no seu repositório -->
+<p align="center">
+  <img src="./assets/banner.gif" alt="Banner Dev - Paulo Deyvid" style="max-width:100%;height:auto;">
+</p>
 
-> _"Tudo o que temos de decidir é o que fazer com o tempo que nos é dado."_  
-> 🧙 – **Gandalf**
+<h1 align="center">👋 Olá, Devs! Bem-vindos ao meu GitHub!</h1>
+
+<p align="center"><i>
+"Todo o que temos de decidir é o que fazer com o tempo que nos é dado."<br>
+— 🧙 Gandalf
+</i></p>
 
 ---
 
 ## 🚀 Sobre mim
 
-- 💻 Apaixonado por tecnologia e desenvolvimento.
-- 🔥 Sempre aprendendo e buscando evoluir como dev e como pessoa.
-- 🎯 Focado em **Front-End e Back-End**, automação e desenvolvimento de soluções inteligentes.
-- 🎓 **Cursando Pós-graduação em Full Stack Development.**
+Sou apaixonado por tecnologia, inovação e o poder que o código tem de transformar ideias em realidade.
+
+- 💻 Desenvolvedor **Front-End / Back-End** em evolução  
+- 🔥 Amante de automação, APIs e soluções inteligentes  
+- 🌱 Sempre estudando e experimentando novas tecnologias  
+- 🎓 **Pós-graduando em Full Stack Development**  
+- 💡 Crio projetos com foco em simplicidade, performance e boas práticas  
 
 ---
 
-## 🛠️ **Linguagens e Ferramentas:**  
+## 🏆 Badges & Certificações  
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" alt="javascript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" alt="git" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" alt="html" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" alt="css" width="40" height="40"/>
+  <img src="https://img.shields.io/badge/Full_Stack_Development-Em%20Formação-blue?style=for-the-badge" alt="Full Stack"/>
+  <img src="https://img.shields.io/badge/Tech%20Lover-%F0%9F%92%BB-purple?style=for-the-badge" alt="Tech Lover"/>
+  <img src="https://img.shields.io/badge/Open%20Source-Ativo-brightgreen?style=for-the-badge" alt="Open Source"/>
+  <img src="https://img.shields.io/badge/Café%20Driven-%E2%98%95-important?style=for-the-badge" alt="Cafe Driven"/>
 </p>
 
 ---
 
-## 📊 **Estatísticas GitHub**
+## 🛠️ Linguagens & Ferramentas
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" width="45" alt="JavaScript"/>
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" width="45" alt="HTML"/>
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" width="45" alt="CSS"/>
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" width="45" alt="Git"/>
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" width="45" alt="NodeJS"/>
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" width="45" alt="React"/>
+</p>
+
+---
+
+## 💼 Projetos em Destaque
+
+### ⭐ **Dashboard de Controle Web**
+<a href="https://github.com/PDEYVID/portal-csc-dashboard">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=PDEYVID&repo=portal-csc-dashboard&theme=dracula" alt="portal-csc-dashboard"/>
+</a>
+
+### ⭐ **Sistema de Estoque Web**
+<a href="https://github.com/PDEYVID/sistema-estoque">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=PDEYVID&repo=sistema-estoque&theme=dracula" alt="sistema-estoque"/>
+</a>
+
+### ⭐ **Automação e Scripts**
+<a href="https://github.com/PDEYVID/scripts-automacao">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=PDEYVID&repo=scripts-automacao&theme=dracula" alt="scripts-automacao"/>
+</a>
+
+---
+
+## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <a href="https://github.com/PDEYVID">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PDEYVID&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PDEYVID&layout=compact&langs_count=7&theme=dracula"/>
-  </a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PDEYVID&show_icons=true&theme=dracula&count_private=true" alt="github-stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PDEYVID&layout=compact&theme=dracula" alt="top-langs"/>
 </div>
 
 ---
 
-## 📫 **Vamos nos conectar!**
+## 🚀 Atividade
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PDEYVID&theme=dracula&hide_border=true" alt="activity-graph"/>
+</div>
+
+---
+
+## 🧩 Fun Facts  
+
+- 🍵 Sobrevivo à base de café  
+- 🎮 Gamer raiz desde o Super Nintendo  
+- 🎧 Vivo com fones no ouvido  
+- ⚡ Adoro aprender tecnologias novas e criar projetos do zero  
+
+---
+
+## 📫 Conecte-se comigo!
 
 <p align="left">
   <a href="https://www.linkedin.com/in/paulo-deyvid/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:paulodeyvid_19@yahoo.com">
-    <img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    <img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://linktr.ee/paulodeyvid" target="_blank">
+    <img src="https://img.shields.io/badge/-Minhas%20Redes-%23E4405F?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree"/>
   </a>
 </p>
 
+**Me siga nas minhas redes sociais:** [linktr.ee/paulodeyvid](https://linktr.ee/paulodeyvid)
 
+---
 
+<p align="center">
+  <!-- GIF decorativo: coloque o arquivo `thanks.gif` em /assets/thanks.gif -->
+  <img src="./assets/thanks.gif" alt="Obrigado!" style="max-width:250px;height:auto;">
+</p>
 
-
-
+<h3 align="center">Obrigado por visitar! 🌟<br>Volte sempre 😄</h3>
