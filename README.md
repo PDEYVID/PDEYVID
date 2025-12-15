@@ -51,7 +51,7 @@ Sou apaixonado por tecnologia, inovação e o poder que o código tem de transfo
 ## 💼 Projetos em Destaque
 
 ### ⭐ **Dashboard de Controle Web**
-<a href="https://github.com/PDEYVID/portal-csc-dashboard">
+<a href="https://github.com/PDEYVID/Dashboard-de-Controle-Web.git"> 
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=PDEYVID&repo=portal-csc-dashboard&theme=dracula" alt="portal-csc-dashboard"/>
 </a>
 
