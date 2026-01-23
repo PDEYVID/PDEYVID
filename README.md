@@ -102,12 +102,9 @@ Sou apaixonado por tecnologia, inovação e o poder que o código tem de transfo
   <a href="mailto:paulodeyvid_19@yahoo.com">
     <img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://linktr.ee/paulodeyvid" target="_blank">
-    <img src="https://img.shields.io/badge/-Minhas%20Redes-%23E4405F?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree"/>
   </a>
 </p>
 
-**Me siga nas minhas redes sociais:** [linktr.ee/paulodeyvid](https://linktr.ee/paulodeyvid)
 
 ---
 
