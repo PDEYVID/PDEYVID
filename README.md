@@ -46,44 +46,6 @@ Sou apaixonado por tecnologia, inovação e o poder que o código tem de transfo
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" width="45" alt="React"/>
 </p>
 
----
-
-## 💼 Projetos em Destaque
-
-### ⭐ **Dashboard de Controle Web**
-<a href="https://github.com/PDEYVID/Dashboard-de-Controle-Web.git"> 
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=PDEYVID&repo=portal-csc-dashboard&theme=dracula" alt="portal-csc-dashboard"/>
-</a>
-
-### ⭐ **Sistema de Estoque Web**
-<a href="https://github.com/PDEYVID/sistema-estoque">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=PDEYVID&repo=sistema-estoque&theme=dracula" alt="sistema-estoque"/>
-</a>
-
-### ⭐ **Automação e Scripts**
-<a href="https://github.com/PDEYVID/scripts-automacao">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=PDEYVID&repo=scripts-automacao&theme=dracula" alt="scripts-automacao"/>
-</a>
-
----
-
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PDEYVID&show_icons=true&theme=dracula&count_private=true" alt="github-stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PDEYVID&layout=compact&theme=dracula" alt="top-langs"/>
-</div>
-
----
-
-## 🚀 Atividade
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PDEYVID&theme=dracula&hide_border=true" alt="activity-graph"/>
-</div>
-
----
-
 ## 🧩 Fun Facts  
 
 - 🍵 Sobrevivo à base de café  
