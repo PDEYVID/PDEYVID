@@ -6,7 +6,7 @@
 *Transformando requisitos em sistemas que funcionam de verdade — do banco de dados até a interface.*
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfólio-code--weaver.vercel.app-6c63ff?style=for-the-badge)](https://code-weaver.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Paulo_Deyvid-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU-LINKEDIN-AQUI)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Paulo_Deyvid-0077B5?style=for-the-badge&logo=linkehdin&logoColor=white)](https://linkedin.com/in/paulo-deyvid)
 [![GitHub](https://img.shields.io/badge/GitHub-PDEYVID-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PDEYVID)
 
 </div>
@@ -73,7 +73,7 @@ Meu portfólio pessoal onde você pode ver minha trajetória, projetos e formas 
 Se quiser trocar uma ideia, colaborar em algum projeto ou só bater um papo sobre tech:
 
 - 🌐 **Portfólio:** [code-weaver.vercel.app](https://code-weaver.vercel.app/)
-- 💼 **LinkedIn:** [linkedin.com/in/SEU-LINKEDIN-AQUI](https://linkedin.com/in/SEU-LINKEDIN-AQUI)
+- 💼 **LinkedIn:** [linkedin.com/in/paulo-deyvid](https://linkedin.com/in/paulo-deyvid)
 - 🐙 **GitHub:** [@PDEYVID](https://github.com/PDEYVID)
 
 ---
