@@ -3,7 +3,7 @@
 # Olá, eu sou Paulo Deyvid 👋
 ### Desenvolvedor Full Stack · Manaus, AM 🌿
 
-*Transformando requisitos em sistemas que funcionam de verdade — do banco de dados até a interface.*
+*Transformando requisitos em sistemas que funcionam de verdade do banco de dados até a interface.*
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfólio-code--weaver.vercel.app-6c63ff?style=for-the-badge)](https://code-weaver.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Paulo_Deyvid-0077B5?style=for-the-badge&logo=linkehdin&logoColor=white)](https://linkedin.com/in/paulo-deyvid)
@@ -15,7 +15,7 @@
 
 ## 🧠 Sobre mim
 
-Sou desenvolvedor Full Stack com foco em construir sistemas robustos do início ao fim — da modelagem do banco até o componente React que o usuário vai clicar. Gosto de entender *por que* algo quebra, não só consertar o sintoma.
+Sou desenvolvedor Full Stack com foco em construir sistemas robustos do início ao fim da modelagem do banco até o componente React que o usuário vai clicar. Gosto de entender *por que* algo quebra, não só consertar o sintoma.
 
 Trabalho com portais corporativos, integrações de backend e sistemas que precisam funcionar de verdade em produção. Quando não estou debugando alguma FK constraint, provavelmente estou jogando ou mergulhado em alguma mídia japonesa. 🎮
 
