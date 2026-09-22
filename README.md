@@ -52,6 +52,9 @@ Trabalho com portais corporativos, integrações de backend e sistemas que preci
 ### 🌐 [Portfólio Pessoal](https://code-weaver.vercel.app/)
 Meu portfólio pessoal onde você pode ver minha trajetória, projetos e formas de contato. Desenvolvido com React e hospedado na Vercel.
 
+### 🐍 [Matrix278](https://github.com/PDEYVID/Matrix278)
+Repositório de perfil GitHub com animação de snake gerada via GitHub Actions a partir do meu grafo de contribuições.
+
 ---
 
 ## 📊 GitHub Stats
