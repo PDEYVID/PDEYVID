@@ -49,7 +49,7 @@ Trabalho com portais corporativos, integrações de backend e sistemas que preci
 
 ## 🚀 Projeto em destaque
 
-### 🌐 [Code Weaver — Portfólio](https://code-weaver.vercel.app/)
+### 🌐 [Portfólio Pessoal](https://code-weaver.vercel.app/)
 Meu portfólio pessoal onde você pode ver minha trajetória, projetos e formas de contato. Desenvolvido com React e hospedado na Vercel.
 
 ---
